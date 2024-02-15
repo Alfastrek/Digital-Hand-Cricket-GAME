@@ -36,7 +36,7 @@ Hand cricket is a popular game played between two players or teams. The objectiv
 
 1. Clone the repository to your local machine.
 2. Make sure you have Python installed.
-3. Open the Jupyter Notebook file `Hand_Cricket_Game.ipynb` in your Jupyter environment.
+3. Open the Jupyter Notebook file `handcricketwidgets.ipynb` in your Jupyter environment.
 4. Run the notebook cell by cell to play the game and enjoy!
 
 ## Acknowledgments
